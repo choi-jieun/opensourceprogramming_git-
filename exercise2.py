@@ -1,4 +1,5 @@
 print("코드 시작됨")
+print("깃 clone 연습 updated ny jieun in 2026-04-08")
 
 import cv2
 
